@@ -21,5 +21,7 @@
         "email": "sebastian.zaha@gmail.com"
     },
     "licenses": "MIT",
-    "dependencies": "sprockets-chain"
+    "dependencies": {
+        "sprockets-chain": "github:marketplacer/sprockets-chain"
+    }
 }
